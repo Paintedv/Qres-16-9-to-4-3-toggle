@@ -1,3 +1,4 @@
 @echo off
-python C:\Users\rzber\toggle_resolution.py
+"C:\location of python install" E:\location of script
 pause
+exit
